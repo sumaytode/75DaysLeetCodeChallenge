@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0420-strong-password-checker](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
