@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0420-strong-password-checker](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
