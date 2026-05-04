@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0420-strong-password-checker](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
