@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
