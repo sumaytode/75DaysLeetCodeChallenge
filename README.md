@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Divide and Conquer
