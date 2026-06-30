@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Sorting
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -219,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
