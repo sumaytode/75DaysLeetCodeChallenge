@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
