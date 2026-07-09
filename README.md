@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3174-clear-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
