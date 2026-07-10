@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Design
