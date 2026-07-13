@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1952-three-divisors](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Simulation
 |  |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
