@@ -4,6 +4,8 @@ class Solution:
         count=1
 
         while i<=n:
+            if count>3:
+                break
             if n%i==0:
                 count+=1
             i+=1
