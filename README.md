@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2540-minimum-common-value](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3731-find-missing-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
