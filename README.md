@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
