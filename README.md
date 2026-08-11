@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -283,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sumaytode/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
